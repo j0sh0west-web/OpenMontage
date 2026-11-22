@@ -1,0 +1,20 @@
+{
+  "creator": "Kai Cenat",
+  "twitch": "kaicenat",
+  "campaign": "Content Rewards: Kai Cenat $10,000 GTA 6 Pool",
+  "rules_url": "https://docs.google.com/document/d/e/2PACX-1vQGh4gvrS4vs5YUVd3JHwGa3L5SaNhgEEuibOkRgs-iyCpPqDTWYBR1XRMZWlcWxbyaAtzgKYSDkz5i/pub",
+  "rules": {
+    "source_from": "2026-11-18",
+    "required_hashtags": ["#KAICENAT"],
+    "name_in_text": true,
+    "logos_allowed": false,
+    "platforms": ["tiktok", "instagram", "youtube", "x"],
+    "notes": "Kai must be the main focus throughout; no negative portrayal; no re-uploading his own Shorts."
+  },
+  "layout_1080p": {
+    "facecam": {"x": 2, "y": 436, "w": 388, "h": 214},
+    "gameplay": {"x": 520, "y": 0, "w": 850, "h": 940},
+    "_note": "Gameplay crop avoids the facecam, chat box, burned-in stream captions (bottom) and the Twitch/YouTube logo counter (right)."
+  },
+  "credit": "🎥 Kai Cenat · twitch.tv/kaicenat"
+}
